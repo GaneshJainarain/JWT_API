@@ -6,13 +6,13 @@
 ## Email already exists test case
 ![](DemoPresentation/EmailAlreadyExistsTest.png)
 
-## Email already exists test case
+## Email length test case
 ![](DemoPresentation/EmailLengthTest.png)
 
-## Email already exists test case
+## Password length test case
 ![](DemoPresentation/PasswordLengthTest.png)
 
-## Email already exists test case
+## Mongo DB Connection
 ![](DemoPresentation/MongoDBConnection.png)
 
 
