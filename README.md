@@ -1,19 +1,19 @@
 # A Node.js API with authentication JWT
 
 ## Creating a user 
-![](CreatingAUser.png)
+![](DemoPresentation/CreatingAUser.png)
 
 ## Email already exists test case
-![](EmailAlreadyExistsTest.png)
+![](DemoPresentation/EmailAlreadyExistsTest.png)
 
 ## Email already exists test case
-![](EmailLengthTest.png)
+![](DemoPresentation/EmailLengthTest.png)
 
 ## Email already exists test case
-![](PasswordLengthTest.png)
+![](DemoPresentation/PasswordLengthTest.png)
 
 ## Email already exists test case
-![](MongoDBConnection.png)
+![](DemoPresentation/MongoDBConnection.png)
 
 
 
